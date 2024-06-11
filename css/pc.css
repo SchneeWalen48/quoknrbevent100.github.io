@@ -1,5 +1,5 @@
 
-@media screen and (max-width:375px), screen and (orientation: landscape) {
+@media screen and (max-width:275px), screen and (orientation: landscape) {
   body{
     font-family: "Noto Sans KR", sans-serif;
     font-optical-sizing: auto;
