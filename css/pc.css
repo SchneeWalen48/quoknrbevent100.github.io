@@ -37,10 +37,16 @@
   nav li{
     list-style: none;
     display: inline;
-    font-size: 25px;
-    margin: 55px;
+    font-size: 15px;
+    margin: 30px;
   }
-  
+  .mainphoto{
+    text-align: center;
+  }
+
+  .phrase{
+    text-align: center;
+  }
   a{
     text-decoration: none;
     color: black;
