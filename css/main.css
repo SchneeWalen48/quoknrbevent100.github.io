@@ -27,8 +27,8 @@ nav li{
     list-style: none;
     align-items: flex-start;
     display: inline;
-    font-size: 15px;
-    margin: 20px;
+    font-size: 25px;
+    margin: 40px;
 }
 
 .mainphoto{
@@ -38,6 +38,7 @@ nav li{
 .phrase{
     text-align: center;
 }
+
 a{
     text-decoration: none;
     color: black;
