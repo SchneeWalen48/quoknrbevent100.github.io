@@ -129,6 +129,8 @@ a:hover{
     transform: rotateY(180deg);
     padding-bottom: 20px;
     margin-right: 20px;
+    width: 130px;
+    height : 180px;
 }
 
 .back p{
